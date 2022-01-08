@@ -27,7 +27,7 @@ public class ProjectEx {
 	JButton button1;
 	JButton button2;
 	JButton button3;
-	//
+	//Ã¹¹ø¤Š
 	ImageIcon running1 = new ImageIcon("images/running.PNG");
 	Image running2 = running1.getImage();
 	Image running3 = running2.getScaledInstance(120, 120, java.awt.Image.SCALE_SMOOTH);
