@@ -29,7 +29,6 @@ public class ProjectEx {
 	JButton button3;
 	//
 	// 운동 방법 사진들
-	// 유산소
 	ImageIcon running1 = new ImageIcon("images/running.PNG");
 	Image running2 = running1.getImage();
 	Image running3 = running2.getScaledInstance(120, 120, java.awt.Image.SCALE_SMOOTH);
